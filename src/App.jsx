@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Get started</h1>
-          <p>Hello, My name is elin-115</p>
+          <p>Hello, My first vercel !!!</p>
         </div>
         <button
           className="counter"
